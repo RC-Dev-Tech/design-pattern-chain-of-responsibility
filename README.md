@@ -44,7 +44,7 @@ Chain of Responsibility模式的目的是將請求的發送者和接收者解耦
 ---
 
 ## 實作範例:
-- [待補...]() 
+- [Example](https://github.com/RC-Dev-Tech/design-pattern-chain-of-responsibility/blob/main/C%2B%2B/main.cpp) - Chain of Responsibility Pattern (C++) 
 
 ---
 
